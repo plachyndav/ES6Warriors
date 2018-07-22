@@ -1,0 +1,70 @@
+.unit {
+    border-style: solid;
+    width: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    margin: 15px;
+    position: absolute;
+    transition: left 1.5s, top 1.5s;
+}
+
+.unit__header {
+    padding-bottom: 10px;
+
+}
+
+.unit__body {
+    border-top-style: solid;
+    border-top-width: 1px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.unit__footer {
+    border-top-style: solid;
+    border-top-width: 1px;
+    padding-top: 10px;
+}
+
+.squad {
+    border-style: solid;
+    padding: 15px;
+    margin-bottom: 50px;
+}
+
+.squad__header {
+    padding-bottom: 15px;
+    font-size: 25px;
+}
+
+.squad__body {
+    position: relative;
+}
+
+.squad__button {
+    margin-left: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
